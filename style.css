@@ -75,12 +75,12 @@ body {
 }
 .clock .hand.minute {
     width: 7px;
-    height: 45%;
+    height: 38%;
     background-color: black;
 }
 
 .clock .hand.hour {
     width: 10px;
-    height: 45%;
+    height: 44%;
     background-color: black;
 }
